@@ -13,7 +13,6 @@ import static JiraSteps.ToolBarButtonsMethods.*;
 import static JiraSteps.ViewProjectPageMethods.*;
 
 public class RunTest extends Hook {
-
     @Test
     @DisplayName("Авторизация пользователя")
     @Description("Происходит авторизация и сравнение пользователя")
