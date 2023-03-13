@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>iFellow</groupId>
-    <artifactId>ExamWorkOnJiraUI</artifactId>
+    <artifactId>ExamWorkJiraUI</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
