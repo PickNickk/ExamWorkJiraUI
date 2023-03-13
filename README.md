@@ -1,4 +1,4 @@
-Проект был создан для тестирование UI Jira. В проекте задействованы junit, maven, selenide, allure.
+Проект был создан для тестирования UI Jira. В проекте задействованы junit, maven, selenide, allure.
 
 В pom.xml была замена версии для maven-surefire-plugin с 2.20 на 2.22.2. Для запуска тестов через консоль.
 
